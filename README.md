@@ -29,6 +29,10 @@
 pip install -r requirements.txt
 ```
 
+> 数据集需要将文字与图片分开，并按照data/MMLongBench/dataset.json 示例构建数据集概述文件
+
+
+
 ### 运行主程序
 
 ```
