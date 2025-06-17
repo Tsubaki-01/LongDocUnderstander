@@ -1,0 +1,7 @@
+qwen:
+  api_key:
+    write your api-key here
+
+llama:
+  api_key:
+    write your api-key here

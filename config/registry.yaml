@@ -1,0 +1,13 @@
+MODEL_REGISTRY:
+  # qwen_2_5: models.qwen.Qwen_2_5_api
+  # qwen_vl_2_5: models.qwen.Qwen_VL_2_5_api
+
+  qwen_2_5: models.qwen.Qwen_2_5_api
+  qwen_vl_2_5: models.qwen.Qwen_VL_2_5
+
+  llama_3_1: models.llama.Llama_3_1
+
+API_REGISTRY:
+  qwen_2_5: qwen
+  qwen_vl_2_5: qwen
+  llama_3_1: llama

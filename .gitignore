@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints (not relevant here, but safe to add)
+.ipynb_checkpoints/
+
+# pipreqs
+requirements.txt.bak
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project-specific: temporary and model output folders
+tmp/
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# PyInstaller
+*.spec
+
+# Coverage reports
+htmlcov/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Test & debug
+.pytest_cache/
+*.prof
+*.pstats
+profile.txt
+debug.log
